@@ -18,3 +18,8 @@ This is a Dotriminoes game (you can also call it as a mini version of Tetris) wr
   ```
   .\code-runner.ps1
   ```
+OR
+- Try running dotris.exe directly (If you are on Linux or MacOS)
+  ```
+  ./dotris.exe
+  ```
