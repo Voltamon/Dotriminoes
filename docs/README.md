@@ -7,20 +7,21 @@ This is a Dotriminoes game (you can also call it as a mini version of Tetris) wr
 > [Disclaimer] This code is not completely bug free and can be made better. I am still learning C.
 
 ## Getting Started
-- Clone this repository
+- [ ] Clone this repository
   ```
   git clone https://github.com/Voltamon/Dotriminoes.git
   ```
-- Navigate to this directory
+- [ ] Navigate to this directory
   ```
   cd Dotriminoes
   ```
-- Run code-runner.ps1 (if you are on Windows)
+- [ ] Run code-runner.ps1 (if you are on Windows)
   ```
   .\code-runner.ps1
   ```
 OR
-- Try running dotris.exe directly (If you are on Linux or MacOS)
+- [ ] Try running dotris.exe directly (If you are on Linux or MacOS)
   ```
   ./dotris.exe
   ```
+###  - Enjoy the Game :+1:
