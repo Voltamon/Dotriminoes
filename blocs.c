@@ -103,15 +103,18 @@ void UpdateGrid(void) {
     }
 }
 
-void PrintGrid(void) {
-    for (int y = 0; y < GRID_HEIGHT; y++) {
-        for (int x = 0; x < GRID_WIDTH; x++) 
-        printf("| %d ", grid[y][x]);
+// Use for Debugging Purposes Only
+// 
+// 
+// void PrintGrid(void) {
+//     for (int y = 0; y < GRID_HEIGHT; y++) {
+//         for (int x = 0; x < GRID_WIDTH; x++) 
+//         printf("| %d ", grid[y][x]);
 
-        printf("|\n");
-    }
-    printf("\n\n\n");
-}
+//         printf("|\n");
+//     }
+//     printf("\n\n\n");
+// }
 
 void LoadAllTextures(void) {
     shapes[0] = LoadTexture("assets/shapes/A.png");

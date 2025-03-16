@@ -75,7 +75,7 @@ int main(void) {
             else
             CurrentSprite.active = false;
 
-            PrintGrid();
+            // PrintGrid();
             fallTimer = 0.0f;
         }
         

@@ -37,7 +37,7 @@ extern int sprites_count;
 
 bool IsGridBlockEmpty(Sprite* sprite, int dx, int dy);
 void UpdateGrid(void);
-void PrintGrid(void);
+// void PrintGrid(void);
 void LoadAllTextures(void);
 Sprite CreateNewSprite(int ADL);
 void DrawSprite(Sprite sprite, int screenWidth, int screenHeight);
