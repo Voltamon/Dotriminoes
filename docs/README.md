@@ -15,7 +15,7 @@ This is a Dotriminoes game (you can also call it as a mini version of Tetris) wr
   ```
   cd Dotriminoes
   ```
-- [ ] Run code-runner.ps1 (if you are on Windows)
+- [ ] \(Optional) Run code-runner.ps1 (if you are on Windows)
   ```
   .\code-runner.ps1
   ```
