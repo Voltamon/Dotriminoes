@@ -10,4 +10,11 @@ This is a Dotriminoes game (you can also call it as a mini version of Tetris) wr
   ```
   git clone https://github.com/Voltamon/Dotriminoes.git
   ```
-- 
+- Navigate to this directory
+  ```
+  cd Dotriminoes
+  ```
+- Run code-runner.ps1 (if you are on Windows)
+  ```
+  .\code-runner.ps1
+  ```
