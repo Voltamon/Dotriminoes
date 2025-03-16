@@ -211,7 +211,7 @@ void MoveSprite(Sprite* sprite) {
             break;
         case KEY_RIGHT:
         case KEY_D:
-            if (IsGridBlockEmpty(sprite, +1, 0))
+            if (IsGridBlockEmpty(sprite, 1, 0))
             sprite->pos_x += 1;
             break;
         case KEY_SPACE:
@@ -219,6 +219,10 @@ void MoveSprite(Sprite* sprite) {
             break;
         case KEY_DOWN:
         case KEY_S:
+            if (IsGridBlockEmpty(sprite, 0, 1))
+            sprite->pos_y += 1;
+            break;
+        case KEY_ENTER:
             while (IsGridBlockEmpty(sprite, 0, 1))
             sprite->pos_y += 1;
             sprite->active = false;
