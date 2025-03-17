@@ -6,6 +6,9 @@ This is a Dotriminoes game (you can also call it as a mini version of Tetris) wr
 > [!IMPORTANT]
 > [Disclaimer] This code is not completely bug free and can be made better. I am still learning C.
 
+## Preview
+![image](https://github.com/user-attachments/assets/a7195beb-bf3a-4e56-b48c-540ce346043b)
+
 ## Getting Started
 - [x] Clone this repository
   ```
